@@ -12,3 +12,4 @@ class Distance {
         System.out.println("Distance in yards is"+ yards +" while in miles is "+ miles);
     }
 }
+
