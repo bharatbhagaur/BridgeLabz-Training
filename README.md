@@ -1,71 +1,34 @@
-🚀 Week 1 Progress Report
-Focus: GitHub Basics • Version Control • Java Core Strengthening
+📘 Week 1: GitHub Setup & Java Core Fundamentals
+🗓️ 17 Dec 2025 (Wednesday)
+Installed Git on the local system
 
-🗓️ Day 1 – GitHub Setup & Introduction
-🧠 What I Learned
+Created a GitHub account
 
-What Git and GitHub are
+Learned the fundamentals of Git and GitHub
 
-Difference between Git (version control) and GitHub (remote repository)
+Practiced basic Git commands such as git init, git status, and git add
 
-Creating a GitHub account
+🗓️ 18 Dec 2025 (Thursday)
+Created repositories on GitHub
 
-Creating my first repository
+Linked local repositories with remote repositories
 
-🛠️ Skills Gained
+Practiced essential Git operations including commit, push, pull, clone, and branch
 
-Repository creation
+Gained understanding of version control concepts and repository handling
 
-Understanding commits & history
+🗓️ 19 Dec 2025 (Friday)
+Revised and practiced core Java concepts
 
-🗓️ Day 2 – Git & GitHub Commands
-💻 Commands Practiced
+Solved beginner-level Java problems using conditional statements and loops
 
-git init
+Worked with user input and output using the Scanner class
 
-git status
+Focused on improving logical thinking and writing clean, readable code
 
-git add .
+🗓️ 20 Dec 2025 (Saturday)
+Studied Java control flow concepts in detail
 
-git commit -m "message"
+Solved control flow practice problems from Level 1, Level 2, and Level 3
 
-git branch
-
-git checkout
-
-git push
-
-git pull
-
-📌 Concepts Learned
-
-Local vs Remote repository
-
-Staging area
-
-Commit lifecycle
-
-Branch basics
-
-🗓️ Day 3 – Java Core Practice 🧩
-☕ Objective Strengthen Java fundamentals through problem solving
-
-🧪 Topics Practiced
-
-Variables & Data Types
-
-Input / Output
-
-Conditional Statements (if-else, switch)
-
-Loops (for, while)
-
-Basic arithmetic & logic problems
-
-🏋️ Outcome
-
-Improved logical thinking
-
-Better understanding of Java syntax
-
-Increased confidence in solving core Java problems
+Successfully completed and submitted all assigned exercises
