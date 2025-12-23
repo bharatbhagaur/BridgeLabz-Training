@@ -1,36 +1,102 @@
-📘 Week 1: GitHub Setup & Java Core Fundamentals
+🚀 Week 1: Git, GitHub Setup & Core Java Basics
+Focus: Version Control Fundamentals + Core Java Foundation
+Duration: 17 Dec 2025 – 20 Dec 2025
 
+📅 17-Dec-2025 (Wednesday)
+🔧 Git & GitHub Setup
+✅ Installed and configured Git on local system
+🌐 Created GitHub account and explored the interface
+📚 Learned core concepts:
+Version Control
+Repositories
+Commits
+📅 18-Dec-2025 (Thursday)
+💻 Git Bash & Practice
+🖥️ Practiced Git Bash commands
+📁 Initialized a local repository
+🔗 Connected local repo with remote GitHub repository
+🔄 Performed:
+git add
+git commit
+git push
+git pull
+🧠 Solved 5 basic LeetCode problems to improve logic
+🔗 Practice Code:
+👉 leet-code-codebase
 
-🗓️ 17 Dec 2025 (Wednesday)
-Installed Git on the local system
+📅 19-Dec-2025 (Friday)
+☕ Core Java Fundamentals
+🧩 Solved basic Java practice problems
+🧪 Practiced:
+Input / Output
+Variables & Data Types
+Conditional Statements
+Logic-based programs
+🔗 Java Practice:
+👉 programming-elements
 
-Created a GitHub account
+🔁 Control Flow Mastery
+📖 Studied Control Flow documentation
+🏆 Solved and submitted:
+Level 1
+Level 2
+Level 3 control flow problems
+🔗 Control Flow Code:
+👉 control-flow
 
-Learned the fundamentals of Git and GitHub
+📅 20-Dec-2025 (Saturday)
+🌍 Scenario-Based Problem Solving
+🧠 Solved real-world scenario-based Java problems
+📘 Studied Array documentation
+🧠 Learned: 1D & 2D Arrays User-defined input using Scanner Traversing arrays using loops
+📤 Pushed all solutions to GitHub
+🔗 Scenario-Based Programs:
+👉 scenario-based
 
-Practiced basic Git commands such as git init, git status, and git add
+🔗 Array Programs:
 
-🗓️ 18 Dec 2025 (Thursday)
-Created repositories on GitHub
+👉 arrays
 
-Linked local repositories with remote repositories
+✨ Week 1 Highlights
+✔️ Solid understanding of Git & GitHub workflow
 
-Practiced essential Git operations including commit, push, pull, clone, and branch
+✔️ Strong Core Java basics
 
-Gained understanding of version control concepts and repository handling
+✔️ Clear concepts of control flow
 
-🗓️ 19 Dec 2025 (Friday)
-Revised and practiced core Java concepts
+✔️ Hands-on practice with arrays (1D & 2D)
 
-Solved beginner-level Java problems using conditional statements and loops
+✔️ Improved logical thinking & problem solving
 
-Worked with user input and output using the Scanner class
+🚀 Week 2: Strings & Methods
+Focus: String Fundamentals + Basic OOP Concepts Duration: 22 Dec 2025 – 26 Dec 2025
 
-Focused on improving logical thinking and writing clean, readable code
+📅 23-Dec-2025 (Monday)
+🔤 Strings in Java
+-📘 Studied String fundamentals
 
-🗓️ 20 Dec 2025 (Saturday)
-Studied Java control flow concepts in detail
+-🧠 Learned: -String creation -Immutability -Manual string comparison vs equals()
 
-Solved control flow practice problems from Level 1, Level 2, and Level 3
+📤 Uploaded all solutions to GitHub
 
-Successfully completed and submitted all assigned exercises
+🔗 Strings Code:
+
+👉 strings
+
+📅 24-Dec-2025 (Tuesday)
+🧩 Methods & String Extras
+-📘 Learned User Defined Methods
+
+-🧠 Practiced: -Parameters & return values -Modular coding style
+
+📤 Pushed all programs to GitHub
+
+🔗 Methods:
+
+👉 methods
+
+🔗String Extras:
+
+👉extras
+
+📌 More weeks and advanced topics coming soon...
