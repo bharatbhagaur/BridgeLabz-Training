@@ -2,7 +2,7 @@ public class BubbleSortStudentMarks {
 
     public static void main(String[] args) {
 
-        // Step 1: Declare and initialize the array of student marks
+        // Step 1: Declare and initialize the array of student mark
         int[] marks = {78, 45, 90, 62, 88, 50};
 
         // Step 2: Store the length of the array
