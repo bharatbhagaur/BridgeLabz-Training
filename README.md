@@ -1,128 +1,88 @@
-# 🚀 Java Learning Journey – Weekly Progress Report
+# 📘 Training Progress Report
+
+## 🗓️ Week 1: Java Fundamentals & Git/GitHub Basics
+
+### 📅 Day 1: 16-Dec-2025
+- 🧑‍💻 Created GitHub account and repositories  
+- 🔗 Connected GitHub with VS Code and Git Bash  
+- ☕ Learned Java basics and core fundamentals  
+- 📚 Understood how to start working with Java programs  
 
 ---
 
-## 📅 **Week 1: Git, GitHub Setup & Core Java Basics**
-
-### 🧠 **What I Learned**
-- ✅ **1D & 2D Arrays**
-- ✅ **User-defined input using `Scanner`**
-- ✅ **Traversing arrays using loops**
-- ✅ **Basic control flow and logic building**
-
-### 📤 **GitHub Progress**
-- Pushed **all solutions** to GitHub with proper commits
-
-### 🔗 **Code Repositories**
-- 🔹 **Scenario-Based Programs**  
-  👉 `scenario-based`
-- 🔹 **Array Programs**  
-  👉 `arrays`
-
-### ✨ **Week 1 Highlights**
-✔️ Solid understanding of **Git & GitHub workflow**  
-✔️ Strong **Core Java basics**  
-✔️ Clear concepts of **control flow**  
-✔️ Hands-on practice with **1D & 2D arrays**  
-✔️ Improved **logical thinking & problem-solving skills**
+### 📅 Day 2: 17-Dec-2025
+- 🛠️ Learned basic Git commands (`git status`, `git push`, `git commit`, etc.)  
+- 🧩 Solved basic Java problems  
+- 📂 Understood version control and repository management  
+- 📤 Pushed solved programs to the repository  
 
 ---
 
-## 🚀 **Week 2: Strings & Methods**
-**Focus:** String Fundamentals + Basic OOP Concepts  
-**Duration:** **22 Dec 2025 – 26 Dec 2025**
+### 📅 Day 3: 18-Dec-2025
+- 📖 Practiced Java core concepts to strengthen fundamentals  
+- 🔁 Solved Java problems using conditions and loops  
+- ⌨️ Worked with input/output using `Scanner` class  
+- 🧠 Focused on logic building and clean coding practices  
+- 📤 Pushed code to the programming elements folder  
 
 ---
 
-### 📅 **23-Dec-2025 (Monday)**  
-## 🔤 Strings in Java
-
-📘 Studied **String Fundamentals**
-
-🧠 Learned:
-- String creation
-- String immutability
-- Manual string comparison vs `equals()`
-
-📤 Uploaded all solutions to GitHub
-
-🔗 **Strings Code**  
-👉 `strings`
+### 📅 Day 4: 19-Dec-2025
+- 📚 Learned Java concepts such as `enum`, `static`, and non-static keywords  
+- 🔀 Solved problems related to control flow statements  
 
 ---
 
-### 📅 **24-Dec-2025 (Tuesday)**  
-## 🧩 Methods & String Extras
-
-📘 Learned **User Defined Methods**
-
-🧠 Practiced:
-- Parameters & return values
-- Modular coding style
-
-📤 Pushed all programs to GitHub
-
-🔗 **Methods Code**  
-👉 `methods`
-
-🔗 **String Extras Code**  
-👉 `extras`
+### 📅 Day 5: 20-Dec-2025
+- 🧮 Learned Arrays in Java and practiced array-based problems  
+- 🔤 Learned Strings in Java and practiced string-based problems  
 
 ---
 
-### 📅 **26-Dec-2025 (Friday)**  
-## 🧱 OOPs Design Principles
+## 🗓️ Week 2: Java Methods & OOP Concepts
 
-📘 Studied **Object-Oriented Design Principles**
-
-🧠 Learned:
-- Encapsulation
-- Abstraction
-- Code reusability
-- Maintainable & scalable design
-
-✍️ Implemented principles with **practical Java examples**
-
-📤 Pushed all code to GitHub
-
-🔗 **OOPs Design Principles Code**  
-👉 `oops-design-principle`
+### 📅 Day 1: 22-Dec-2025
+- 🔧 Learned methods in Java and practiced method-based problems  
+- 📦 Practiced built-in Java functions  
+- 🔍 Explored advanced string functions  
+- 🧱 Submitted programs based on classes, objects, and constructors  
 
 ---
 
-## 🏛️ OOPs – Four Pillars
-
-📘 Studied documentation of **4 Pillars of OOPs**
-
-🧠 Covered:
-- Encapsulation
-- Abstraction
-- Inheritance
-- Polymorphism
-
-✍️ Practiced and implemented **Java programs** for each pillar
-
-📤 Uploaded all code to GitHub
-
-🔗 **OOPs Pillars Code**  
-👉 `oops-pillars`
+### 📅 Day 2: 23-Dec-2025
+- 🏷️ Learned types of keywords such as `static` and `final`  
+- 🧠 Studied OOP design principles  
 
 ---
 
-## ✨ **Week 2 Highlights**
-✔️ Strong understanding of **Java Strings & string manipulation**  
-✔️ Clear concept of **User Defined Methods** and modular coding  
-✔️ Practiced **String extras** and comparison using built-in methods  
-✔️ Studied **OOPs Design Principles** with theory + code  
-✔️ Implemented **4 Pillars of OOPs**:
-- Encapsulation  
-- Abstraction  
-- Inheritance  
-- Polymorphism  
-✔️ Improved **clean code practices** and object-oriented thinking  
-✔️ Consistent **GitHub commits** with structured documentation  
+### 📅 Day 3: 24-Dec-2025
+- 🧬 Learned inheritance in Object-Oriented Programming  
+- 🔐 Studied encapsulation, polymorphism, and abstraction  
 
 ---
 
-📌 **More weeks and advanced topics coming soon...** 🚀  
+### 📅 Day 4: 26-Dec-2025
+- 🛠️ Practiced problems based on OOP design principles  
+- 🔄 Solved problems using inheritance, encapsulation, abstraction, and polymorphism  
+
+---
+
+## 🗓️ Week 3: Data Structures & Algorithms
+
+### 📅 Day 1: 29-Dec-2025
+- 🧩 Learned basic data structures such as:
+  - Linked List  
+  - HashMap  
+  - Stack  
+  - Queue  
+- 📚 Practiced problems using Java Collection Framework  
+
+---
+
+### 📅 Day 2: 30-Dec-2025
+- 🧩 Learned sorting techniques in Java  
+- 🔢 Practiced sorting algorithms and related problems  
+
+---
+
 
