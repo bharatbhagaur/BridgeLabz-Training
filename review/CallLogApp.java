@@ -39,7 +39,7 @@ public class CallLogApp {
     // Add call log method
     static void addCallLog(String phone, String message)
             throws InvalidPhoneNumberException, EmptyMessageException {
-
+        
         if (!phone.matches("\\d{10}"))
             throw new InvalidPhoneNumberException("Invalid phone number");
 
