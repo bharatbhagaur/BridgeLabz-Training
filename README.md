@@ -84,5 +84,76 @@
 - 🔢 Practiced sorting algorithms and related problems  
 
 ---
+# 📘 Training Progress Report
+
+## 🗓️ Week-3 : DATA STRUCTURES AND ALGORITHMS
+
+### 📅 Day-1 : 29-Dec-2025
+- 🧩 Learned about basic data structures:
+  - Linked List  
+  - HashMap  
+  - Queue  
+  - Stack  
+- 🧩 Practiced problems based on these data structures.
+
+### 📅 Day-2 : 30-Dec-2025
+- 🧩 Learned about sorting techniques in Java.
+- 🧩 Practiced problems based on sorting algorithms.
+
+### 📅 Day-3 : 31-Dec-2025
+- 🧩 Learned about searching techniques.
+- 🧩 Practiced problems based on searching algorithms.
+- 🧩 Revised DSA topics and practiced string-based problems.
+
+### 📅 Day-4 : 1-Jan-2026
+- 🧩 Learned about runtime analysis of code.
+- 🧩 Gained knowledge of:
+  - Time Complexity  
+  - Space Complexity  
+- 🧩 Learned about:
+  - Worst-case complexity  
+  - Best-case complexity  
+- 🧩 Learned how to optimize algorithms.
+
+---
+
+## 🗓️ Week-4 : JAVA COLLECTIONS AND STREAMS
+
+### 📅 Day-1 : 2-Jan-2026
+- 🧩 Learned about Generic methods in Java.
+- 🧩 Learned about:
+  - Bounded type parameters  
+  - Wildcards  
+
+### 📅 Day-2 : 3-Jan-2026
+- 🧩 Learned about Collection Framework.
+- 🧩 Learned about interfaces:
+  - Set  
+  - Map  
+  - List  
+  - Queue  
+
+### 📅 Day-3 : 5-Jan-2026
+- 🧩 Learned about Java Streams.
+- 🧩 Learned about:
+  - ByteArray Streams  
+  - File Streams  
+
+### 📅 Day-4 : 6-Jan-2026
+- 🧩 Revised previous topics.
+- 🧩 Practiced scenario-based problems.
+
+### 📅 Day-5 : 7-Jan-2026
+- 🧩 Practiced more scenario-based problems.
+- 🧩 Gained more hands-on practice with OOP concepts.
+
+### 📅 Day-6 : 8-Jan-2026
+- 🧩 Learned about Exceptions and Exception Handling in Java.
+- 🧩 Learned about:
+  - Types of Exceptions  
+  - try-catch-finally blocks  
+  - How to create custom exceptions
+
+
 
 
