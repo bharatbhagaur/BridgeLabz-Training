@@ -154,16 +154,22 @@
   - try-catch-finally blocks  
   - How to create custom exceptions
 
-###🗓️ Day-7 : 9-Jan-2026
-- 🧩 Revised the topics of the week.
-- 🧩 Learned more about exceptions and generic classes in java.
+---
 
+### 🗓️ Day-7 : 9-Jan-2026
+🧩 Revised the topics of the week.  
+🧩 Learned more about exceptions and generic classes in Java.  
 
-##🗓️ Week-5 : JAVA COLLECTIONS ANS STREAMS
+---
 
-###🗓️ Day-1 : 12-Jan-2026
-- 🧩 Learned about regex and junit testing.
-- 🧩 setup files for junit
+## 🗓️ Week-5 : JAVA COLLECTIONS AND STREAMS
+
+### 🗓️ Day-1 : 12-Jan-2026
+🧩 Learned about Regex and JUnit testing.  
+🧩 Setup files for JUnit.  
+
+---
+
 
 
 
