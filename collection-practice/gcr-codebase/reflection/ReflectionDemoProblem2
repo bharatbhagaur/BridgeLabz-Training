@@ -1,0 +1,37 @@
+import java.lang.reflect.Field;
+class Person {
+    private int age = 25;   // private field
+
+    public void showAge() {
+        System.out.println("Age = " + age);
+    }
+}
+
+public class ReflectionDemoProblem2 {
+
+    public static void main(String[] args) throws Exception {
+
+        // Create object of Person
+        Person p = new Person();
+
+        // Get Class object
+        Class<?> cls = p.getClass();
+
+        // Get private field "age"
+        Field field = cls.getDeclaredField("age");
+
+        // Make private field accessible
+        field.setAccessible(true);
+
+        // Read value of private field
+        int currentAge = (int) field.get(p);
+        System.out.println("Before Modification Age = " + currentAge);
+
+        // Modify value of private field
+        field.set(p, 40);
+
+        // Read modified value
+        int updatedAge = (int) field.get(p);
+        System.out.println("After Modification Age = " + updatedAge);
+    }
+}
