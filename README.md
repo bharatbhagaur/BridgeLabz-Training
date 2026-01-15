@@ -169,6 +169,16 @@
 🧩 Setup files for JUnit.  
 
 ---
+### 🗓️ Day-2 : 13-Jan-2026
+🧩 Solved problems for Junit testing.  
+🧩 Revised the concepts of previes topics. 
+
+
+---
+### 🗓️ Day-4 : 14-Jan-2026
+🧩 Learned about Reflection and Annotations.  
+🧩 Solved problems for  Reflection. 
+
 
 
 
