@@ -175,10 +175,15 @@
 
 
 ---
-### 🗓️ Day-4 : 14-Jan-2026
+### 🗓️ Day-3 : 14-Jan-2026
 🧩 Learned about Reflection and Annotations.  
 🧩 Solved problems for  Reflection. 
 
+
+---
+### 🗓️ Day-4 : 15-Jan-2026
+🧩 Solved problems for  Reflection and Annotations.  
+🧩 Workig on Address Book Problem . 
 
 
 
