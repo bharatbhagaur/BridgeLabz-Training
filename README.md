@@ -185,6 +185,10 @@
 🧩 Solved problems for  Reflection and Annotations.  
 🧩 Workig on Address Book Problem . 
 
+---
+### 🗓️ Day-5 : 16-Jan-2026
+🧩 Solved Scenario based problem on oops and coe java concepts.  
+🧩 Revised previous topics. 
 
 
 
