@@ -191,4 +191,9 @@
 🧩 Revised previous topics. 
 
 
+---
+### 🗓️ Day-6 : 17-Jan-2026
+🧩 Workig on Address Book Problem.  
+🧩 Revised Exeptional handling topics. 
+
 
