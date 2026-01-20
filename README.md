@@ -197,3 +197,19 @@
 🧩 Revised Exeptional handling topics. 
 
 
+## 🗓️ Week-6 : IO PROGRAMMING
+### 🗓️ Day-1 : 19-Jan-2026  
+## 🧩 Topic: CSV Data Handling
+
+### ✅ What I Learned Today
+🧩 Understood what a CSV (Comma Separated Values) file is.  
+🧩 Learned how data is stored in rows and columns like a table.  
+🧩 Difference between CSV and Excel files.  
+🧩 Why CSV is widely used for data exchange and storage.  
+🧩 How CSV files can be opened in Excel, Notepad, and programming tools.  
+
+
+
+
+
+
