@@ -198,6 +198,8 @@
 
 
 ## 🗓️ Week-6 : IO PROGRAMMING
+
+
 ### 🗓️ Day-1 : 19-Jan-2026  
 ## 🧩 Topic: CSV Data Handling
 
@@ -207,6 +209,11 @@
 🧩 Difference between CSV and Excel files.  
 🧩 Why CSV is widely used for data exchange and storage.  
 🧩 How CSV files can be opened in Excel, Notepad, and programming tools.  
+
+### 🗓️ Day-2 : 20-Jan-2026  
+🧩 Topic: Submission of CSV Data Handling  
+✅ Read CSV file using Java, processed student data, verified output and submitted successfully.
+🧩 Workig on Address Book Problem. 
 
 
 
