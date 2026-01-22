@@ -67,23 +67,8 @@
 
 ---
 
-## 🗓️ Week 3: Data Structures & Algorithms
-
-### 📅 Day 1: 29-Dec-2025
-- 🧩 Learned basic data structures such as:
-  - Linked List  
-  - HashMap  
-  - Stack  
-  - Queue  
-- 📚 Practiced problems using Java Collection Framework  
-
----
-
-### 📅 Day 2: 30-Dec-2025
-- 🧩 Learned sorting techniques in Java  
-- 🔢 Practiced sorting algorithms and related problems  
-
----
+  
+ 
 # 📘 Training Progress Report
 
 ## 🗓️ Week-3 : DATA STRUCTURES AND ALGORITHMS
