@@ -147,7 +147,7 @@
 
 ---
 
-## 🗓️ Week-5 : JAVA COLLECTIONS AND STREAMS
+###🗓️ Week 5: Advanced Java Concepts
 
 ### 🗓️ Day-1 : 12-Jan-2026
 🧩 Learned about Regex and JUnit testing.  
