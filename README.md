@@ -215,6 +215,15 @@
 ✅ Read CSV file using Java, processed student data, verified output and submitted successfully.
 🧩 Workig on Address Book Problem. 
 
+### 🗓️ Day-3 : 21-Jan-2026  
+🧩 Topic: Learn JSON  
+📘 Learned JSON syntax and key-value structure.  
+📂 Understood JSON objects and arrays.  
+💻 Practiced creating and reading JSON data in Java.  
+✅ Improved data handling and parsing skills.
+
+
+
 
 
 
