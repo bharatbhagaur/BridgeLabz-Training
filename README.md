@@ -208,6 +208,45 @@
 ✅ Improved data handling and parsing skills.
 
 
+### 🗓️ Day-4 : 22-Jan-2026
+
+🧩 Submitted JSON practice tasks and programs.
+🧩 Verified JSON read, write, merge, filtering and validation programs.
+🧩 Learned Java 8 features.
+🧩 Practiced Lambda Expressions.
+🧩 Improved code readability and performance using modern Java features.
+
+
+### 🗓️ Day-5 : 23-Jan-2026
+🧩 Workig on Address Book Problem.  
+🧩 Revised Previous topics. 
+🧩 work on Lexical twist problem.
+
+
+## 🗓️ Week-7 : JAVA 8 AND ITS FEATURES
+
+### 📅 Day-1 : 27-Jan-2026
+
+🧩 Created and pushed a new Git branch: **java8-features-practice**.
+🧩 Submitted Lambda Expression practice problems.
+🧩 Practiced sorting using Lambda and Comparator.
+🧩 Implemented Predicate-based filtering examples.
+🧩 Improved understanding of functional programming in Java 8.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
