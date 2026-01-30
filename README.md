@@ -228,27 +228,51 @@
 ### 📅 Day-1 : 27-Jan-2026
 
 🧩 Created and pushed a new Git branch: **java8-features-practice**.
+
 🧩 Submitted Lambda Expression practice problems.
+
+
 🧩 Practiced sorting using Lambda and Comparator.
+
 🧩 Implemented Predicate-based filtering examples.
+
+
 🧩 Improved understanding of functional programming in Java 8.
 
 ### 📅 Day-2 : 28-Jan-2026
 🧩 Practiced Lambda Expression problems in Java 8.
+
+
 🧩 Learned and implemented Functional Interfaces.
+
+
 🧩 Used Predicate, Function, Consumer with examples.
+
+
 🧩 Improved understanding of functional programming concepts.
 
 ### 📅 Day-3 : 29-Jan-2026
 🧩 Solved scenario-based problems: FutureLogistics & AeroVigil.
+
+
 🧩 Applied Java concepts to real-world problem statements.
+
+
 🧩 Focused on logic building and edge-case handling.
+
+
 🧩 Pushed solutions to GitHub repository.
 
 ### 📅 Day-4 : 30-Jan-2026
 🧩 Learned Java Stream API and Collectors in detail.
+
+
 🧩 Practiced map(), filter(), forEach(), groupingBy(), and summarizing collectors.
+
+
 🧩 Solved scenario-based problems using JUnit test cases.
+
+
 🧩 Worked on exception handling with custom and built-in exceptions.
 
 
