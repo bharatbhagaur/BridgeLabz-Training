@@ -277,6 +277,24 @@
 
 
 
+### 📅 Day-5 : 31-Jan-2026
+
+🔹 Explored Introduction to GoF Design Patterns & their importance 
+ 
+🧩 Studied GoF Categories – Creational & Behavioral  
+
+
+⚙️ Implemented Singleton, Factory, Observer & Builder Patterns 
+ 
+📐 Designed UML diagrams for GoF patterns  
+
+
+
+🤖 Solved scenario-based problem: Factory Pattern – Robot Hazard Analyzer  
+
+
+📌 Pushed practice code to `dsa-practice` branch on GitHub  
+
 
 
 
