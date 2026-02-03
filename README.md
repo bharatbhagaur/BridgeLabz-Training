@@ -276,8 +276,9 @@
 🧩 Worked on exception handling with custom and built-in exceptions.
 
 
+## 🗓️ Week-7 :Solution Designing
 
-### 📅 Day-5 : 31-Jan-2026
+### 📅 Day-1 : 31-Jan-2026
 
 🔹 Explored Introduction to GoF Design Patterns & their importance 
  
@@ -296,7 +297,7 @@
 📌 Pushed practice code to `dsa-practice` branch on GitHub  
 
 
-### 📅 Day-6 : 02-Feb-2026
+### 📅 Day-2 : 02-Feb-2026
 
 🧪 Solved JUnit scenario-based problems and pushed **Test Cases** to `io-practice`  
 
