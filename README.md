@@ -296,6 +296,27 @@
 📌 Pushed practice code to `dsa-practice` branch on GitHub  
 
 
+### 📅 Day-6 : 02-Feb-2026
+
+🧪 Solved JUnit scenario-based problems and pushed **Test Cases** to `io-practice`  
+
+
+🌊 Practiced **Stream Buzz** and pushed solution to Collection-based scenario problems  
+
+
+⚙️ Attended Workshop on **Java 8 Features**  
+
+
+🏙️ Worked on **Smart City Transport & Service Management System**  
+
+
+💡 Applied Streams, Lambda Expressions, and Functional Interfaces  
+
+
+📌 Pushed complete workshop project to `java8-features-practice` branch  
+
+
+
 
 
 
