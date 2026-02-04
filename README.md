@@ -316,6 +316,25 @@
 
 📌 Pushed complete workshop project to `java8-features-practice` branch  
 
+### 📅 Day-3 : 03-Feb-2026
+
+🔹 Learned **Multi-Threading concepts in Java**  
+
+
+⚙️ Practiced threads using **Thread class** & **Runnable interface**  
+
+
+🔄 Studied **Thread Life Cycle & States** in Java  
+
+
+🌊 Solved **OceanFleet** scenario-based problem using collections  
+
+
+📌 Pushed solution to `collection-practice` branch on GitHub  
+
+
+
+
 
 
 
