@@ -332,6 +332,28 @@
 
 📌 Pushed solution to `collection-practice` branch on GitHub  
 
+### 📅 Day-4 : 04-Feb-2026
+
+## 🗓️ Day-34 : Collection-Based Scenario Problems 📚
+
+🍔 Implemented **Food Delivery Order Routing System** using Queue<Order> & List<Agent>  
+
+
+🔁 Assigned orders **FIFO** to nearest available agent using OOP principles  
+
+
+⚠️ Handled unavailability with **NoAgentAvailableException**  
+
+
+🎓 Built **Online Classroom Attendance Tracker** using Set & Map for session-wise tracking  
+
+
+🚫 Prevented duplicates with **DuplicateAttendanceException**  
+
+
+📌 Pushed both scenario-based solutions to `collection-practice` branch on GitHub  
+
+
 
 
 
