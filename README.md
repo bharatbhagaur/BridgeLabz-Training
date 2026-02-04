@@ -334,7 +334,7 @@
 
 ### 📅 Day-4 : 04-Feb-2026
 
-## 🗓️ Day-34 : Collection-Based Scenario Problems 📚
+## 🗓️  Collection-Based Scenario Problems 📚
 
 🍔 Implemented **Food Delivery Order Routing System** using Queue<Order> & List<Agent>  
 
