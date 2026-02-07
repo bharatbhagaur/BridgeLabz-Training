@@ -353,6 +353,46 @@
 
 📌 Pushed both scenario-based solutions to `collection-practice` branch on GitHub  
 
+## 🗓️ Week-8 :Multi-Threading
+### 📅 Day-1 : 05-Feb-2026
+
+🧵 Learned basics of Multi-Threading in Java.  
+
+
+🧵 Created threads using Thread class and Runnable interface.
+  
+🧵 Understood difference between Thread vs Runnable.  
+
+
+🧵 Learned Thread life cycle, states, and thread methods.  
+
+
+🧩 Solved scenario-based problem: EchoWeave Encryption String.  
+
+
+🖥️ Implemented CoolTrack – Data Center Monitoring System using Collections.
+
+### 📅 Day-2 : 06-Feb-2026
+
+📚 Learned DBMS concepts with focus on MySQL Indexing.  
+
+
+📌 Covered: Introduction to Indexing, Types of Indexes, How Indexes Work. 
+ 
+🛠️ Practiced creating and managing indexes with best practices.  
+
+
+⚡ Understood performance considerations while using indexes.  
+
+
+🧵 Revised Multi-Threading concepts and thread lifecycle.  
+
+
+💻 Completed hands-on tutorial examples in MySQL.
+
+
+
+
 
 
 
