@@ -1,5 +1,5 @@
 import java.util.*;
-
+//Camelcase
 public class CamelCase {
 
     public static int camelcase(String s) {
